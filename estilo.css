@@ -9,9 +9,10 @@ body{
 }
 .Nombre .contenido{
     width: 50%;
-    height: 50px;
-    position: absolute ;
+    height: 300px;
+    position: relative ;
     left: 25%;
+    top: 45px;
 }
 .Nombre .contenido .p1{
 color: white;
@@ -123,4 +124,3 @@ transform: skewY(5deg);
     font-size: 20px;
     display: inline;
 }
-
